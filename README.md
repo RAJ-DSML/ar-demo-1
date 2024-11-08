@@ -1,10 +1,9 @@
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
-  <a href="https://github.com/RAJ-DSML/ar-demo-1/blob/main/SampleVideo/ArUco_VideoFootage.gif">
-    <img src="ArUco_VideoFootage.gif" alt="Logo" width="500" height="450">
-  </a>
-
+  <img src="https://github.com/RAJ-DSML/ar-demo-1/blob/main/SampleVideo/ArUco_VideoFootage.gif" alt="Project Demo">
+</p>
   <h1 align="center">ArUco Marker Detection and Axis/Cube Visualization with Python</h1>
 </p>
 
